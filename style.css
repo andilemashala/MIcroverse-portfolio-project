@@ -51,3 +51,11 @@ body{
 .menu{
 margin-top: 10px;
 }
+
+.header-main-content{
+    width: 375px;
+    height: 587.15;
+    background-image: url('/header-shapes_mobile.png');
+    background-image: no-repeat;
+    
+}
