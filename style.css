@@ -97,3 +97,36 @@ margin-top: 10px;
     padding-right: 24px;
     padding-top: 12px;
 }
+
+.main-content-contacts-text{
+    /* edit */
+    width: 43.29%;
+    /* width: 200px; */
+    height: 24px;
+    margin-top: 50px;
+    margin-bottom: 12px;
+
+    padding-left: 24px;
+    padding-right: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+
+    color: #7F8CFF;
+}
+
+.main-content-contacts{
+    /* edit */
+    width: 36.83%;
+
+    /* width: 170.17px; */
+    height: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 60px;
+    
+}
