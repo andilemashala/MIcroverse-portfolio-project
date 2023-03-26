@@ -59,3 +59,41 @@ margin-top: 10px;
     background-image: no-repeat;
     
 }
+
+.introduction-primary-text{
+    /* edit */
+    width: 70.78%;
+
+    /* width: 327px; */
+    height: 150px;
+
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+
+    color: #172B4D;
+
+    padding-top: 114px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.introduction-supporting-text{
+    /* edit */
+    width: 70.78%;
+
+    /* width: 327px; */
+    height: 146px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #344563;
+
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 12px;
+}
