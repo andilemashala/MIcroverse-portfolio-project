@@ -50,6 +50,10 @@ button:hover {
   color: #6070ff;
 }
 
+.logo a{
+  text-decoration: none;
+}
+
 .menu {
   margin-top: 10px;
 }
@@ -71,9 +75,12 @@ button:hover {
   font-weight: 700;
   line-height: 52px;
   color: #172b4d;
+  display: flex;
   padding-top: 114px;
+  align-items: center;
   padding-left: 24px;
   padding-right: 24px;
+  margin: 0px;
 }
 
 .introduction-supporting-text {
@@ -88,6 +95,8 @@ button:hover {
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 12px;
+  margin: 0px;
+  
 }
 
 .main-content-contacts-text {
@@ -111,12 +120,18 @@ button:hover {
   height: 20px;
   padding-left: 24px;
   padding-right: 24px;
-  /* padding-bottom: 60px; */
-}
-
-.main-content-contacts ul{
+  padding-bottom: 60px;
   list-style-type: none;
   display: flex;
+  flex-direction: row;
+  gap: 24px;
+  margin: 0px;
+  padding-bottom: 60px;
+}
+
+
+.main-content-contacts img{
+  height: 20px;
 }
 
 /* minimum desktop width */
